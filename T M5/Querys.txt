@@ -1,0 +1,12 @@
+1.GET https://restcountries.com/v3.1/all
+2.GET https://restcountries.com/v3.1/name/colombia
+3.GET https://restcountries.com/v3.1/name/United States?fullText=true
+4.GET https://restcountries.com/v3.1/alpha/col
+5.GET https://restcountries.com/v3.1/alpha?codes=us,gb,es
+6.GET https://restcountries.com/v3.1/currency/cop
+7.GET https://restcountries.com/v3.1/lang/french
+8.GET https://restcountries.com/v3.1/capital/Washington
+9.GET https://restcountries.com/v2/callingcode/1
+10.GET https://restcountries.com/v3.1/region/europe
+11.GET https://restcountries.com/v2/regionalbloc/CARICOM
+12.GET https://restcountries.com/v2/lenguages?fields=name,region,currencies
